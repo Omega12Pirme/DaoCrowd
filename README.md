@@ -1,4 +1,4 @@
-# FundingDAO
+# DaoCrowd
 
 # This project is built under BRB HACKATHON
 
