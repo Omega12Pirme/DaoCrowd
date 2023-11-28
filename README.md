@@ -36,7 +36,7 @@ Welcome to DaoCrowd, a revolutionary platform that empowers individuals and busi
     </tr>
     <tr>
       <td>Vercel</td>
-      <td>https://funding-dao-nine.vercel.app</td>
+      <td>https://a-dao-crowd-ouxswo4wj-vikash-8090-yadav.vercel.app/</td>
     </tr>
     </table>
 </div>
