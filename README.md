@@ -3,12 +3,13 @@
 # This project is built under BRB HACKATHON
 
 
-![Screenshot from 2023-11-28 02-39-21](https://github.com/Vikash-8090-Yadav/FundingDAO/assets/85225156/ca1cb28e-25bb-437f-8904-e66ddc21872e)
+![Screenshot from 2023-11-29 03-45-39](https://github.com/Omega12Pirme/DaoCrowd/assets/105157723/b100ea8c-7101-4b05-8809-dbf54869c317)
+
 
 Welcome to DaoCrowd, a revolutionary platform that empowers individuals and businesses to turn their dreams into reality. Our crowdfunding application is designed to connect passionate creators with a supportive community of backers, fostering innovation, creativity, and positive impact.
 
 <h1 align="center"> 
-  <span style="color: yellow">Funding Dao </span>
+  <span style="color: yellow">DaoCrowd </span>
 </h1>
 <p> <b>It is a groundbreaking platform revolutionizing crowdfunding. Seamlessly connect creators with backers across various genres, from tech startups to creative arts. Our secure and flexible funding options cater to diverse projects, ensuring a hassle-free experience. Engage your backers with enticing rewards, and leverage real-time analytics for informed decision-making. Join our vibrant community, explore success stories, and make your mark in the next era of crowdfunding innovation.</b> </p>
 
